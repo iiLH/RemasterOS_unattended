@@ -1,2 +1,2 @@
 # RemasterOS_unattended
-Version basada en Windows 10
+Version Generica X64
